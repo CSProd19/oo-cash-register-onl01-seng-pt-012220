@@ -10,9 +10,7 @@ class CashRegister
   end 
   
   def total
-    @total do |c|
-      total 
-    end 
+    
   end 
   
 end 
