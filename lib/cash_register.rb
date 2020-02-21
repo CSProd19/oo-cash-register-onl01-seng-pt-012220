@@ -10,7 +10,7 @@ class CashRegister
   end 
   
   def total
-    total 
+    @total 
   end 
   
 end 
