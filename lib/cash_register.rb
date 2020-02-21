@@ -9,4 +9,6 @@ class CashRegister
     @cash_register_with_discount = cash_register_with_discount
   end 
   
+  
+  
 end 
